@@ -32,9 +32,9 @@ body{
          height: 300px;
          border: 5px ;
           border-style: solid;
-          border-color:#ffffff;
+          border-color:#a77e00;
          text-align: center;
-         background-color:#0900ff;
+         background-color:#fdf77d;
  
       }
 
@@ -83,7 +83,7 @@ body{
          height: 30px;
          border: 6px ;
           border-style: solid;
-          border-color: #d80909;
+          border-color: #a74300;
          text-align: center;
          background-color: #feff67; 
 }
